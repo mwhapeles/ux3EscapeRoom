@@ -1,0 +1,13 @@
+video {
+    width: 70%;
+    height: 70%;
+}
+
+
+
+@media only screen and (max-width: 400px) {
+video {
+    max-width: 60%;
+    max-height: 60%;
+}
+}
